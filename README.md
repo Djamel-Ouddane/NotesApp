@@ -1,7 +1,7 @@
 
 I write a lot of notes and I wanted a really simple notes app with limited fluff, so I made this one.
 
-📝 My Simple Notes App
+📝 My Simple Notes App<br>
 Hey! This is just a simple little notes app I built using Python and Tkinter. I wanted something minimal where I could quickly jot down stuff, save it, and not get distracted by a bunch of extra features I don’t use. It’s got just enough to be useful and not enough to get annoying.
 Had to do some reading online as tkinter was unfamiliar.
 
